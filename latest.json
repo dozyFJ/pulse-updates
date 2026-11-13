@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.8",
-  "url": "https://raw.githubusercontent.com/dozyFJ/pulse-updates/main/releases/pulse-0.2.8.apk",
-  "sha256": "39f4190aeb47150bc38b0262ba88c30929cc3bf9fd25193f1c2dcbd3def81ac7",
-  "sourceCommit": "4cbaf03baed07ce155821e74d9e61243eaaaa6e5"
+  "versionCode": 11,
+  "versionName": "0.2.9",
+  "url": "https://raw.githubusercontent.com/dozyFJ/pulse-updates/main/releases/pulse-0.2.9.apk",
+  "sha256": "be5b07a9f382e69aa82e6676e7f0515eb646fed96b37869f006737f76c674cb3",
+  "sourceCommit": "c2612d753c488eee38fe626ee5ed97a7c89a789a"
 }
