@@ -1,7 +1,7 @@
 {
-  "versionCode": 16842801,
-  "versionName": "1.0.49",
-  "url": "https://raw.githubusercontent.com/dozyFJ/pulse-updates/winteria/releases/Winteria-1.0.49.apk",
-  "sha256": "0c441a1aa369b28b2a31a6771ccdf11099c023d5701a2e4305e057375f8015f2",
-  "sourceCommit": "0a188e79da572de13a2044810555ff59ea156397"
+  "versionCode": 16842802,
+  "versionName": "1.0.50",
+  "url": "https://raw.githubusercontent.com/dozyFJ/pulse-updates/winteria/releases/Winteria-1.0.50.apk",
+  "sha256": "0b24dfe60b3abf168ad9f7433246b76ef68a23f9eac15351b38c2aa7ebe9a61a",
+  "sourceCommit": "f824784cc61f72add908673ff5c1b8fb4cafeeb7"
 }
